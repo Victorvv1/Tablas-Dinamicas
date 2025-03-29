@@ -1,2 +1,2 @@
 # Tablas-Dinamicas
-Tablas dinamicas Ejercicios
+Tablas dinamicas Ejercicios Python
